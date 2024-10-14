@@ -1,1 +1,15 @@
-https://config.qmk.fm/#/sofle_choc/LAYOUT
+* Steps to change layout
+
+- Visit [QMK Configurator][https://config.qmk.fm/#/sofle_choc/LAYOUT]
+- Upload the `sofle_choc_layout_mine.json` file
+- Make any changes using the web UI
+  - GMK Serika is a clear and attractive theme
+- Download a new .json file and overwrite the one in this repository
+- Hit the compile button on the website
+- Download the hex file by hitting the "Firmware" button
+- Replace the hex file in this repository
+- Open the QMK Configurator app
+- Navigate to the downloaded hex file and open it up
+- Press the reset switch on the keyboard half plugged into USB
+- Click the Flash button in QMK Configurator
+- Switch the USB cable to the other half, reset, and flash
