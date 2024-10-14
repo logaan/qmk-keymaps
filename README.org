@@ -1,7 +1,7 @@
 * Steps to change layout
 
-- Visit [QMK Configurator][https://config.qmk.fm/#/sofle_choc/LAYOUT]
-- Upload the `sofle_choc_layout_mine.json` file
+- Visit [[https://config.qmk.fm/#/sofle_choc/LAYOUT][QMK Configurator]]
+- Upload the ~sofle_choc_layout_mine.json~ file
 - Make any changes using the web UI
   - GMK Serika is a clear and attractive theme
 - Download a new .json file and overwrite the one in this repository
